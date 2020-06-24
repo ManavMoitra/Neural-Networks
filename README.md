@@ -1,4 +1,4 @@
-In LE_NET.py I tried implementing LENET on CIFAR-10 dataset The dataset is comprised of 60,000 32×32 pixel color photographs of objects from 10 classes, such as frogs, birds, cats, ships, etc. The class labels and their standard associated integer values are listed below.
+In LE_NET.ipynb I tried implementing LENET on CIFAR-10 dataset The dataset is comprised of 60,000 32×32 pixel color photographs of objects from 10 classes, such as frogs, birds, cats, ships, etc. The class labels and their standard associated integer values are listed below.
 
     0: airplane
     1: automobile
